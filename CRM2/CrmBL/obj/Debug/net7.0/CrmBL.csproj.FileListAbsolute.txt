@@ -1,0 +1,15 @@
+D:\Git\Fitness\CRM2\CrmBL\bin\Debug\net7.0\CrmBL.dll.config
+D:\Git\Fitness\CRM2\CrmBL\bin\Debug\net7.0\CrmBL.deps.json
+D:\Git\Fitness\CRM2\CrmBL\bin\Debug\net7.0\CrmBL.runtimeconfig.json
+D:\Git\Fitness\CRM2\CrmBL\bin\Debug\net7.0\CrmBL.dll
+D:\Git\Fitness\CRM2\CrmBL\bin\Debug\net7.0\CrmBL.pdb
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.csproj.AssemblyReference.cache
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.AssemblyInfoInputs.cache
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.AssemblyInfo.cs
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.csproj.CoreCompileInputs.cache
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.dll
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\refint\CrmBL.dll
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.pdb
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\CrmBL.genruntimeconfig.cache
+D:\Git\Fitness\CRM2\CrmBL\obj\Debug\net7.0\ref\CrmBL.dll
